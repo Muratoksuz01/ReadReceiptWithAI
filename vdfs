@@ -1,0 +1,1254 @@
+Metin: ŞOK
+Koordinatlar: vertices {
+  x: 324
+  y: 378
+}
+vertices {
+  x: 361
+  y: 377
+}
+vertices {
+  x: 362
+  y: 404
+}
+vertices {
+  x: 325
+  y: 405
+}
+
+------
+Metin: MARKETLER
+Koordinatlar: vertices {
+  x: 370
+  y: 376
+}
+vertices {
+  x: 483
+  y: 372
+}
+vertices {
+  x: 484
+  y: 399
+}
+vertices {
+  x: 371
+  y: 403
+}
+
+------
+Metin: TIC.A.Ş
+Koordinatlar: vertices {
+  x: 495
+  y: 372
+}
+vertices {
+  x: 581
+  y: 369
+}
+vertices {
+  x: 582
+  y: 396
+}
+vertices {
+  x: 496
+  y: 399
+}
+
+------
+Metin: 13668
+Koordinatlar: vertices {
+  x: 299
+  y: 412
+}
+vertices {
+  x: 356
+  y: 410
+}
+vertices {
+  x: 357
+  y: 435
+}
+vertices {
+  x: 300
+  y: 437
+}
+
+------
+Metin: HATAY
+Koordinatlar: vertices {
+  x: 368
+  y: 410
+}
+vertices {
+  x: 430
+  y: 408
+}
+vertices {
+  x: 431
+  y: 433
+}
+vertices {
+  x: 369
+  y: 435
+}
+
+------
+Metin: İSKENDERUN
+Koordinatlar: vertices {
+  x: 443
+  y: 407
+}
+vertices {
+  x: 562
+  y: 403
+}
+vertices {
+  x: 563
+  y: 428
+}
+vertices {
+  x: 444
+  y: 432
+}
+
+------
+Metin: KYK
+Koordinatlar: vertices {
+  x: 573
+  y: 403
+}
+vertices {
+  x: 611
+  y: 402
+}
+vertices {
+  x: 612
+  y: 426
+}
+vertices {
+  x: 574
+  y: 427
+}
+
+------
+Metin: KARAAĞAÇ
+Koordinatlar: vertices {
+  x: 296
+  y: 445
+}
+vertices {
+  x: 394
+  y: 441
+}
+vertices {
+  x: 395
+  y: 466
+}
+vertices {
+  x: 297
+  y: 470
+}
+
+------
+Metin: KONARLI
+Koordinatlar: vertices {
+  x: 406
+  y: 441
+}
+vertices {
+  x: 490
+  y: 438
+}
+vertices {
+  x: 491
+  y: 463
+}
+vertices {
+  x: 407
+  y: 466
+}
+
+------
+Metin: MH
+Koordinatlar: vertices {
+  x: 501
+  y: 437
+}
+vertices {
+  x: 527
+  y: 436
+}
+vertices {
+  x: 528
+  y: 461
+}
+vertices {
+  x: 502
+  y: 462
+}
+
+------
+Metin: 834.SK
+Koordinatlar: vertices {
+  x: 538
+  y: 436
+}
+vertices {
+  x: 613
+  y: 433
+}
+vertices {
+  x: 614
+  y: 458
+}
+vertices {
+  x: 539
+  y: 461
+}
+
+------
+Metin: NO
+Koordinatlar: vertices {
+  x: 427
+  y: 473
+}
+vertices {
+  x: 450
+  y: 472
+}
+vertices {
+  x: 451
+  y: 495
+}
+vertices {
+  x: 428
+  y: 496
+}
+
+------
+Metin: 5A
+Koordinatlar: vertices {
+  x: 461
+  y: 471
+}
+vertices {
+  x: 487
+  y: 470
+}
+vertices {
+  x: 488
+  y: 493
+}
+vertices {
+  x: 462
+  y: 494
+}
+
+------
+Metin: ARSUZ
+Koordinatlar: vertices {
+  x: 390
+  y: 506
+}
+vertices {
+  x: 450
+  y: 503
+}
+vertices {
+  x: 451
+  y: 527
+}
+vertices {
+  x: 391
+  y: 530
+}
+
+------
+Metin: HATAY
+Koordinatlar: vertices {
+  x: 462
+  y: 502
+}
+vertices {
+  x: 523
+  y: 499
+}
+vertices {
+  x: 524
+  y: 523
+}
+vertices {
+  x: 463
+  y: 526
+}
+
+------
+Metin: 8140131899
+Koordinatlar: vertices {
+  x: 397
+  y: 537
+}
+vertices {
+  x: 520
+  y: 531
+}
+vertices {
+  x: 521
+  y: 554
+}
+vertices {
+  x: 398
+  y: 560
+}
+
+------
+Metin: ANADOLU
+Koordinatlar: vertices {
+  x: 338
+  y: 570
+}
+vertices {
+  x: 425
+  y: 565
+}
+vertices {
+  x: 426
+  y: 590
+}
+vertices {
+  x: 340
+  y: 595
+}
+
+------
+Metin: KURUMLAR
+Koordinatlar: vertices {
+  x: 434
+  y: 564
+}
+vertices {
+  x: 533
+  y: 558
+}
+vertices {
+  x: 534
+  y: 583
+}
+vertices {
+  x: 436
+  y: 589
+}
+
+------
+Metin: V.D
+Koordinatlar: vertices {
+  x: 543
+  y: 558
+}
+vertices {
+  x: 582
+  y: 556
+}
+vertices {
+  x: 583
+  y: 580
+}
+vertices {
+  x: 544
+  y: 582
+}
+
+------
+Metin: TARIH
+Koordinatlar: vertices {
+  x: 252
+  y: 625
+}
+vertices {
+  x: 314
+  y: 622
+}
+vertices {
+  x: 315
+  y: 647
+}
+vertices {
+  x: 253
+  y: 650
+}
+
+------
+Metin: :
+Koordinatlar: vertices {
+  x: 385
+  y: 619
+}
+vertices {
+  x: 398
+  y: 618
+}
+vertices {
+  x: 399
+  y: 642
+}
+vertices {
+  x: 386
+  y: 643
+}
+
+------
+Metin: 26/02/2025
+Koordinatlar: vertices {
+  x: 409
+  y: 617
+}
+vertices {
+  x: 531
+  y: 611
+}
+vertices {
+  x: 532
+  y: 636
+}
+vertices {
+  x: 410
+  y: 642
+}
+
+------
+Metin: SAAT
+Koordinatlar: vertices {
+  x: 254
+  y: 647
+}
+vertices {
+  x: 304
+  y: 646
+}
+vertices {
+  x: 304
+  y: 669
+}
+vertices {
+  x: 254
+  y: 670
+}
+
+------
+Metin: :
+Koordinatlar: vertices {
+  x: 391
+  y: 647
+}
+vertices {
+  x: 400
+  y: 646
+}
+vertices {
+  x: 402
+  y: 667
+}
+vertices {
+  x: 393
+  y: 668
+}
+
+------
+Metin: 19:37:23
+Koordinatlar: vertices {
+  x: 411
+  y: 644
+}
+vertices {
+  x: 507
+  y: 634
+}
+vertices {
+  x: 509
+  y: 656
+}
+vertices {
+  x: 413
+  y: 666
+}
+
+------
+Metin: 1,185Kg
+Koordinatlar: vertices {
+  x: 259
+  y: 719
+}
+vertices {
+  x: 323
+  y: 713
+}
+vertices {
+  x: 325
+  y: 733
+}
+vertices {
+  x: 261
+  y: 739
+}
+
+------
+Metin: X
+Koordinatlar: vertices {
+  x: 327
+  y: 713
+}
+vertices {
+  x: 340
+  y: 712
+}
+vertices {
+  x: 342
+  y: 731
+}
+vertices {
+  x: 329
+  y: 732
+}
+
+------
+Metin: *
+Koordinatlar: vertices {
+  x: 345
+  y: 711
+}
+vertices {
+  x: 353
+  y: 710
+}
+vertices {
+  x: 355
+  y: 729
+}
+vertices {
+  x: 347
+  y: 730
+}
+
+------
+Metin: 39.90
+Koordinatlar: vertices {
+  x: 355
+  y: 710
+}
+vertices {
+  x: 399
+  y: 706
+}
+vertices {
+  x: 401
+  y: 725
+}
+vertices {
+  x: 357
+  y: 729
+}
+
+------
+Metin: 201
+Koordinatlar: vertices {
+  x: 506
+  y: 708
+}
+vertices {
+  x: 530
+  y: 707
+}
+vertices {
+  x: 531
+  y: 724
+}
+vertices {
+  x: 507
+  y: 725
+}
+
+------
+Metin: *
+Koordinatlar: vertices {
+  x: 580
+  y: 702
+}
+vertices {
+  x: 589
+  y: 702
+}
+vertices {
+  x: 590
+  y: 720
+}
+vertices {
+  x: 581
+  y: 720
+}
+
+------
+Metin: 47.28
+Koordinatlar: vertices {
+  x: 589
+  y: 701
+}
+vertices {
+  x: 636
+  y: 699
+}
+vertices {
+  x: 637
+  y: 717
+}
+vertices {
+  x: 590
+  y: 719
+}
+
+------
+Metin: PORTAKAL
+Koordinatlar: vertices {
+  x: 258
+  y: 740
+}
+vertices {
+  x: 328
+  y: 733
+}
+vertices {
+  x: 330
+  y: 752
+}
+vertices {
+  x: 260
+  y: 759
+}
+
+------
+Metin: KG
+Koordinatlar: vertices {
+  x: 337
+  y: 732
+}
+vertices {
+  x: 355
+  y: 730
+}
+vertices {
+  x: 357
+  y: 749
+}
+vertices {
+  x: 339
+  y: 751
+}
+
+------
+Metin: .
+Koordinatlar: vertices {
+  x: 355
+  y: 731
+}
+vertices {
+  x: 361
+  y: 730
+}
+vertices {
+  x: 363
+  y: 748
+}
+vertices {
+  x: 357
+  y: 749
+}
+
+------
+Metin: 0.600Kg
+Koordinatlar: vertices {
+  x: 258
+  y: 760
+}
+vertices {
+  x: 319
+  y: 752
+}
+vertices {
+  x: 322
+  y: 769
+}
+vertices {
+  x: 260
+  y: 777
+}
+
+------
+Metin: X
+Koordinatlar: vertices {
+  x: 326
+  y: 752
+}
+vertices {
+  x: 336
+  y: 751
+}
+vertices {
+  x: 338
+  y: 767
+}
+vertices {
+  x: 328
+  y: 768
+}
+
+------
+Metin: *
+Koordinatlar: vertices {
+  x: 345
+  y: 749
+}
+vertices {
+  x: 354
+  y: 748
+}
+vertices {
+  x: 356
+  y: 764
+}
+vertices {
+  x: 347
+  y: 765
+}
+
+------
+Metin: 72.90
+Koordinatlar: vertices {
+  x: 354
+  y: 748
+}
+vertices {
+  x: 397
+  y: 743
+}
+vertices {
+  x: 399
+  y: 758
+}
+vertices {
+  x: 356
+  y: 764
+}
+
+------
+Metin: YERLI
+Koordinatlar: vertices {
+  x: 257
+  y: 779
+}
+vertices {
+  x: 300
+  y: 773
+}
+vertices {
+  x: 302
+  y: 789
+}
+vertices {
+  x: 259
+  y: 795
+}
+
+------
+Metin: MUZ
+Koordinatlar: vertices {
+  x: 307
+  y: 772
+}
+vertices {
+  x: 335
+  y: 768
+}
+vertices {
+  x: 337
+  y: 784
+}
+vertices {
+  x: 309
+  y: 788
+}
+
+------
+Metin: KG
+Koordinatlar: vertices {
+  x: 343
+  y: 767
+}
+vertices {
+  x: 362
+  y: 764
+}
+vertices {
+  x: 364
+  y: 780
+}
+vertices {
+  x: 345
+  y: 783
+}
+
+------
+Metin: .
+Koordinatlar: vertices {
+  x: 361
+  y: 765
+}
+vertices {
+  x: 368
+  y: 764
+}
+vertices {
+  x: 370
+  y: 779
+}
+vertices {
+  x: 363
+  y: 780
+}
+
+------
+Metin: 201
+Koordinatlar: vertices {
+  x: 507
+  y: 747
+}
+vertices {
+  x: 532
+  y: 746
+}
+vertices {
+  x: 532
+  y: 764
+}
+vertices {
+  x: 507
+  y: 765
+}
+
+------
+Metin: *
+Koordinatlar: vertices {
+  x: 583
+  y: 744
+}
+vertices {
+  x: 592
+  y: 744
+}
+vertices {
+  x: 593
+  y: 761
+}
+vertices {
+  x: 584
+  y: 762
+}
+
+------
+Metin: 43.74
+Koordinatlar: vertices {
+  x: 591
+  y: 743
+}
+vertices {
+  x: 638
+  y: 740
+}
+vertices {
+  x: 639
+  y: 759
+}
+vertices {
+  x: 592
+  y: 762
+}
+
+------
+Metin: 0,680Kg
+Koordinatlar: vertices {
+  x: 255
+  y: 797
+}
+vertices {
+  x: 315
+  y: 789
+}
+vertices {
+  x: 317
+  y: 804
+}
+vertices {
+  x: 257
+  y: 812
+}
+
+------
+Metin: X
+Koordinatlar: vertices {
+  x: 323
+  y: 788
+}
+vertices {
+  x: 334
+  y: 787
+}
+vertices {
+  x: 336
+  y: 800
+}
+vertices {
+  x: 325
+  y: 802
+}
+
+------
+Metin: *
+Koordinatlar: vertices {
+  x: 342
+  y: 785
+}
+vertices {
+  x: 352
+  y: 784
+}
+vertices {
+  x: 354
+  y: 798
+}
+vertices {
+  x: 344
+  y: 799
+}
+
+------
+Metin: 42,50
+Koordinatlar: vertices {
+  x: 350
+  y: 784
+}
+vertices {
+  x: 396
+  y: 778
+}
+vertices {
+  x: 398
+  y: 793
+}
+vertices {
+  x: 352
+  y: 799
+}
+
+------
+Metin: FUJI
+Koordinatlar: vertices {
+  x: 254
+  y: 813
+}
+vertices {
+  x: 290
+  y: 809
+}
+vertices {
+  x: 291
+  y: 824
+}
+vertices {
+  x: 256
+  y: 828
+}
+
+------
+Metin: ELMA
+Koordinatlar: vertices {
+  x: 297
+  y: 808
+}
+vertices {
+  x: 332
+  y: 804
+}
+vertices {
+  x: 333
+  y: 818
+}
+vertices {
+  x: 299
+  y: 822
+}
+
+------
+Metin: KG
+Koordinatlar: vertices {
+  x: 341
+  y: 803
+}
+vertices {
+  x: 359
+  y: 801
+}
+vertices {
+  x: 360
+  y: 815
+}
+vertices {
+  x: 343
+  y: 817
+}
+
+------
+Metin: .
+Koordinatlar: vertices {
+  x: 360
+  y: 801
+}
+vertices {
+  x: 366
+  y: 800
+}
+vertices {
+  x: 368
+  y: 814
+}
+vertices {
+  x: 362
+  y: 815
+}
+
+------
+Metin: %
+Koordinatlar: vertices {
+  x: 509
+  y: 789
+}
+vertices {
+  x: 520
+  y: 790
+}
+vertices {
+  x: 519
+  y: 806
+}
+vertices {
+  x: 508
+  y: 805
+}
+
+------
+Metin: 01
+Koordinatlar: vertices {
+  x: 518
+  y: 789
+}
+vertices {
+  x: 536
+  y: 790
+}
+vertices {
+  x: 535
+  y: 806
+}
+vertices {
+  x: 517
+  y: 805
+}
+
+------
+Metin: *
+Koordinatlar: vertices {
+  x: 585
+  y: 785
+}
+vertices {
+  x: 594
+  y: 785
+}
+vertices {
+  x: 594
+  y: 802
+}
+vertices {
+  x: 585
+  y: 802
+}
+
+------
+Metin: 28.90
+Koordinatlar: vertices {
+  x: 593
+  y: 784
+}
+vertices {
+  x: 640
+  y: 783
+}
+vertices {
+  x: 640
+  y: 801
+}
+vertices {
+  x: 593
+  y: 802
+}
+
+------
+Metin: TOPKDV
+Koordinatlar: vertices {
+  x: 251
+  y: 852
+}
+vertices {
+  x: 326
+  y: 848
+}
+vertices {
+  x: 327
+  y: 869
+}
+vertices {
+  x: 252
+  y: 873
+}
+
+------
+Metin: Cros
+Koordinatlar: vertices {
+  x: 454
+  y: 842
+}
+vertices {
+  x: 521
+  y: 839
+}
+vertices {
+  x: 522
+  y: 859
+}
+vertices {
+  x: 455
+  y: 862
+}
+
+------
+Metin: +1,12
+Koordinatlar: vertices {
+  x: 573
+  y: 844
+}
+vertices {
+  x: 638
+  y: 843
+}
+vertices {
+  x: 638
+  y: 857
+}
+vertices {
+  x: 573
+  y: 858
+}
+
+------
+Metin: ALAM
+Koordinatlar: vertices {
+  x: 263
+  y: 873
+}
+vertices {
+  x: 325
+  y: 871
+}
+vertices {
+  x: 325
+  y: 880
+}
+vertices {
+  x: 263
+  y: 882
+}
+
+------
+Metin: *
+Koordinatlar: vertices {
+  x: 550
+  y: 858
+}
+vertices {
+  x: 561
+  y: 858
+}
+vertices {
+  x: 561
+  y: 879
+}
+vertices {
+  x: 550
+  y: 879
+}
+
+------
+Metin: 119.92
+Koordinatlar: vertices {
+  x: 563
+  y: 857
+}
+vertices {
+  x: 639
+  y: 856
+}
+vertices {
+  x: 639
+  y: 877
+}
+vertices {
+  x: 563
+  y: 878
+}
+
+------
+Metin: OFTHE
+Koordinatlar: vertices {
+  x: 279
+  y: 1434
+}
+vertices {
+  x: 442
+  y: 1432
+}
+vertices {
+  x: 443
+  y: 1494
+}
+vertices {
+  x: 280
+  y: 1496
+}
+
+------
+Metin: 706
+Koordinatlar: vertices {
+  x: 554
+  y: 1322
+}
+vertices {
+  x: 612
+  y: 1322
+}
+vertices {
+  x: 612
+  y: 1342
+}
+vertices {
+  x: 554
+  y: 1342
+}
+
+------
